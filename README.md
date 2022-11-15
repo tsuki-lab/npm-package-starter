@@ -2,9 +2,10 @@
 
 npmパッケージを作成する上でスターターとして利用できるリポジトリ
 
-|      | version |
-| ---- | ------- |
-| pnpm |  7.5.0  |
+| dependencies | version |
+| ------------ | ------- |
+| pnpm         |  7.5.0  |
+| typescript   |  4.8.4  |
 
 ## Usage
 
