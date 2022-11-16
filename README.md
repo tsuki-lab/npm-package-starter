@@ -1,6 +1,6 @@
 # npm-package-starter
 
-npmパッケージを作成する上でスターターとして利用できるリポジトリ
+Repositories that can be used as a starter in creating npm package.
 
 | dependencies | version |
 | ------------ | ------- |
@@ -9,4 +9,14 @@ npmパッケージを作成する上でスターターとして利用できる�
 
 ## Usage
 
-Click "**Use this template**" here or clone this repository.
+Click "**Use this template**" here or **clone** this repository.
+
+###  Preset commands
+
+### build
+
+Compile `/src/index.ts` as an entry file.
+
+```shell
+pnpm build
+```
